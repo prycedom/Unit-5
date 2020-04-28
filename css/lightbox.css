@@ -159,7 +159,7 @@ body.lb-disable-scrolling {
 .lb-data .lb-details {
   width: 85%;
   float: left;
-  text-align: left;
+  text-align: center;
   line-height: 1.1em;
 }
 
