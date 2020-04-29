@@ -1,8 +1,22 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
 body {
   display: flex;
   max-width: 100%;
+  background: #e4eaf0;
 }
 
+.wrapper{
+  position: absolute;
+  top: 0%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin-top: 15px;
+}
 .main-thumbnails {
   display: flex;
   flex-wrap: wrap;
