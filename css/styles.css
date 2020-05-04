@@ -11,11 +11,12 @@ body {
 }
 /* Searchbox */
 .wrapper{
-  position: absolute;
+  position: sticky;
   top: 0%;
-  left: 50%;
+  left: 40%;
   transform: translate(-50%, -50%);
   margin-top: 55px;
+  margin-left: 80px;
 }
 .searchbox{
   position: relative;
