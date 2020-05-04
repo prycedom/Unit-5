@@ -12,7 +12,7 @@ body {
 /* Searchbox */
 .wrapper{
   position: sticky;
-  top: 0%;
+  top: 10%;
   left: 40%;
   transform: translate(-50%, -50%);
   margin-top: 55px;
@@ -20,6 +20,7 @@ body {
 }
 .searchbox{
   position: relative;
+  left: 35%
 }
 .searchbox .input{
   width: 0px;
