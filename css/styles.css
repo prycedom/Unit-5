@@ -9,7 +9,7 @@ body {
   max-width: 100%;
   background: #e4eaf0;
 }
-/* Searchbox */
+/* Searchbox - This searchbox was created with the assistance of Coding Market and their video on https://www.youtube.com/watch?v=6EA__N9QV8I*/
 .wrapper{
   position: sticky;
   top: 10%;
@@ -30,7 +30,6 @@ body {
   border-radius: 50px;
   box-shadow: 0 0 15px 1px #b6bbc0;
   outline: none;
-  /* color: #42be11; */
   font-size: 24px;
   font-weight: bold;
   transition: all 0.5s linear;
